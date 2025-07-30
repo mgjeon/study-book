@@ -1,0 +1,6 @@
+[build]
+  command = "pip install jupyter-book && jupyter-book build ."
+  publish = "_build/html"
+
+[build.environment]
+  PIP_USER = "0"
