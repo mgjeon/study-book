@@ -5,6 +5,10 @@ title: My sample book
 author: The Jupyter Book Community
 logo: logo.png
 
+# Exclude patterns - files to ignore during build
+exclude_patterns:
+  - CLAUDE.md
+
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:

@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-  - file: markdown
-  - file: notebooks
-  - file: markdown-notebooks
-  - file: pipe_flow_simulation_tutorial
+  - file: posts/markdown
+  - file: posts/notebooks
+  - file: posts/markdown-notebooks
+  - file: posts/pipe_flow_simulation_tutorial
