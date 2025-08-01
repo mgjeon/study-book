@@ -1,4 +1,4 @@
-# KHU SciML Study Group Book
+# KHU SciML Study Group
 
 SciML (Scientific Machine Learning) = Scientific Computing + Machine Learning
 
