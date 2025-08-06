@@ -8,3 +8,4 @@ parts:
     chapters:
       - file: posts/pipe_flow_simulation_tutorial
       - file: posts/brief_intro_fluid_mechanics
+      - file: posts/flow_over_a_step
