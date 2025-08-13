@@ -11,3 +11,4 @@ parts:
       - file: posts/flow_over_a_step
       - file: posts/intro_stable_fluids
       - file: posts/kolmogorov_flow_julia
+      - file: posts/taylor-green_vortex_turbulence
